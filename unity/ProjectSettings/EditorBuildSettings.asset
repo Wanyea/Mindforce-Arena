@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mindforce Arena - Start Menu.unity
+    guid: ff3ede65f913d3245b33dc5a6187a434
+  - enabled: 1
+    path: Assets/Scenes/Mindforce Arena - Gameplay Scene.unity
+    guid: 6875b4e5a1b9c0a43a69109afd1cc395
+  - enabled: 1
+    path: Assets/Scenes/Network Prototype.unity
+    guid: 8bc6836ae1fea184f910b269e42bec64
+  - enabled: 0
+    path: Assets/Scenes/Mindforce Arena - Extended Gameplay Scene (Lobby).unity
+    guid: 8f31181bfddc76242a66fcd9beb90d08
+  - enabled: 1
+    path: Assets/Scenes/Mindforce Arena - Tutorial.unity
+    guid: b6f79b709d94f1a4a9cf0e2f393add44
+  - enabled: 1
+    path: Assets/Scenes/Mindforce Arena - Training Scene.unity
+    guid: 043565d26d6b7db4491e80913db81eb6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e7a1d46842e295e4c8efb1c640aa9420, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5405b018cc07dda4794bff4ba1bf2312, type: 2}
